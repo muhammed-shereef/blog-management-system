@@ -66,6 +66,6 @@ A simple Blog Management System built with Laravel
 
 ## Technologies Used
 - **Laravel** 11
-- **MySQL** (or your preferred database)
+- **MySQL** 
 - **Blade** (for templating)
 - **CKEditor/TinyMCE** (for rich text editing)
