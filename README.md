@@ -58,6 +58,7 @@ A simple Blog Management System built with Laravel
     ```bash
     php artisan serve
     npn install and npm run dev
+    php artisan storage:link
     ```
 
     This will start the application at `http://127.0.0.1:8000`.
